@@ -1,6 +1,18 @@
-# Anime Recommendation system
+# Anime recommendation system - developed as part of the DSC 148 course final project
 
-Link to the application: https://drive.google.com/file/d/1CeoNQnrLZ9lxVqzCaIdYlMLpvNCuPon3/view?usp=share_link
+Link to the web application: https://drive.google.com/file/d/1CeoNQnrLZ9lxVqzCaIdYlMLpvNCuPon3/view?usp=share_link
+
+## Starting the service
+
+Download the folder from the link, unzip it and follow the commands:
+
+        >cd streamlit-app-new
+
+        >pip install -r requirements.txt
+
+        >streamlit run main.py
+    
+The app will run on http://localhost:8501 
 
 Collaborative filtering and content-based filtering are two popular approaches to recommendation systems. Collaborative filtering utilizes the past behaviors and preferences of users to make recommendations for items, while content-based filtering relies on the attributes of items to generate recommendations.
 
