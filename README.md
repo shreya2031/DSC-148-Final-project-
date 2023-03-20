@@ -24,6 +24,7 @@ The app will run on http://localhost:8501
 ![Screenshot](Content_based_results.png)
 
 ### Login page
+![Screenshot](Login.png)
 ![Screenshot](Colab_filt_results.png)
 
 
