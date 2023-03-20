@@ -1,5 +1,7 @@
 # Anime Recommendation system
 
+Link to the application: https://drive.google.com/file/d/1CeoNQnrLZ9lxVqzCaIdYlMLpvNCuPon3/view?usp=share_link
+
 Collaborative filtering and content-based filtering are two popular approaches to recommendation systems. Collaborative filtering utilizes the past behaviors and preferences of users to make recommendations for items, while content-based filtering relies on the attributes of items to generate recommendations.
 
 ![263296](https://user-images.githubusercontent.com/125176903/226091976-9842df10-2769-450a-965a-138fa2af6cb3.png)
