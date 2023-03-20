@@ -21,9 +21,10 @@ The app will run on http://localhost:8501
 
 ### Search page
 ![Screenshot](Search1.png)
-![Screenshot](Search2.png)
+![Screenshot](Content_based_results.png)
 
 ### Login page
+![Screenshot](Colab_filt_results.png)
 
 
 Collaborative filtering and content-based filtering are two popular approaches to recommendation systems. Collaborative filtering utilizes the past behaviors and preferences of users to make recommendations for items, while content-based filtering relies on the attributes of items to generate recommendations.
