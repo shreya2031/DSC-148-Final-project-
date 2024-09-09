@@ -1,6 +1,5 @@
 # Anime recommendation system - developed as part of the DSC 148 course final project
 
-Link to the web application: https://drive.google.com/file/d/1CeoNQnrLZ9lxVqzCaIdYlMLpvNCuPon3/view?usp=share_link
 
 ## Starting the service
 
